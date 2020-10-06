@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5fd3336-ac05-4edf-ae27-87d2c9f265a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFUMo0sucw6GjnGdBErTvAijtM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.04. Histogram">
+    <configuration name="01. Numbers Ending in 7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Loops - Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01. Numbers Ending in 7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02. Half Sum Element" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Loops - Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02. Half Sum Element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04. Histogram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Loops - Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04. Histogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Divide Without Remainder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Loops - Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Divide Without Remainder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name=".Odd  Even Position" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Loops - Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.Odd  Even Position.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.04. Histogram" />
+        <item itemvalue="Python.Divide Without Remainder" />
+        <item itemvalue="Python..Odd  Even Position" />
+        <item itemvalue="Python.02. Half Sum Element" />
+        <item itemvalue="Python.01. Numbers Ending in 7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5fd3336-ac05-4edf-ae27-87d2c9f265a9" name="Default Changelist" comment="" />
+      <created>1586330789593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586330789593</updated>
+      <workItem from="1586330797544" duration="1755000" />
+      <workItem from="1586332586154" duration="1776000" />
+      <workItem from="1586334416396" duration="595000" />
+      <workItem from="1586339310964" duration="1776000" />
+      <workItem from="1586341117834" duration="1426000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586343249582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586343249582" />
+    <state x="548" y="170" key="FileChooserDialogImpl" timestamp="1586344627102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586344627102" />
+    <state width="1493" height="261" key="GridCell.Tab.-1.bottom" timestamp="1586339690212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.-1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586339690212" />
+    <state width="1493" height="261" key="GridCell.Tab.-1.center" timestamp="1586339690212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.-1.center/0.0.1536.824@0.0.1536.824" timestamp="1586339690212" />
+    <state width="1493" height="261" key="GridCell.Tab.-1.left" timestamp="1586339690212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.-1.left/0.0.1536.824@0.0.1536.824" timestamp="1586339690212" />
+    <state width="1493" height="261" key="GridCell.Tab.-1.right" timestamp="1586339690212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1586339690212" />
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom" timestamp="1586374187438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586374187438" />
+    <state width="1364" height="195" key="GridCell.Tab.0.center" timestamp="1586374187438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586374187438" />
+    <state width="1364" height="195" key="GridCell.Tab.0.left" timestamp="1586374187438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586374187438" />
+    <state width="1364" height="195" key="GridCell.Tab.0.right" timestamp="1586374187438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586374187438" />
+    <state x="79" y="442" width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1586342550648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="79" y="442" width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586342550648" />
+    <state x="79" y="442" width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1586342550648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="79" y="442" width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586342550648" />
+    <state x="79" y="442" width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1586342550648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="79" y="442" width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586342550648" />
+    <state x="79" y="442" width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1586342550648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="79" y="442" width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586342550648" />
+    <state x="79" y="442" width="1464" height="163" key="GridCell.Tab.2.bottom" timestamp="1586339881336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="79" y="442" width="1464" height="163" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586339881336" />
+    <state x="79" y="442" width="1464" height="163" key="GridCell.Tab.2.center" timestamp="1586339881336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="79" y="442" width="1464" height="163" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1586339881336" />
+    <state x="79" y="442" width="1464" height="163" key="GridCell.Tab.2.left" timestamp="1586339881336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="79" y="442" width="1464" height="163" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1586339881336" />
+    <state x="79" y="442" width="1464" height="163" key="GridCell.Tab.2.right" timestamp="1586339881336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="79" y="442" width="1464" height="163" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1586339881336" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1586374153942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586374153942" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1586374201950">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586374201950" />
+    <state x="34" y="196" width="1478" height="228" key="dock-window-1" timestamp="1586341452051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="34" y="196" width="1478" height="228" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1586341452051" />
+    <state x="72" y="0" width="1478" height="298" key="dock-window-2" timestamp="1586339793540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="72" y="0" width="1478" height="298" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1586339793540" />
+    <state x="72" y="0" width="1478" height="298" key="dock-window-3" timestamp="1586339793540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="72" y="0" width="1478" height="298" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1586339793540" />
+    <state x="0" y="327" width="1478" height="228" key="dock-window-4" timestamp="1586339793540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="327" width="1478" height="228" key="dock-window-4/0.0.1536.824@0.0.1536.824" timestamp="1586339793540" />
+    <state x="79" y="442" width="1478" height="228" key="dock-window-5" timestamp="1586339901722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="79" y="442" width="1478" height="228" key="dock-window-5/0.0.1536.824@0.0.1536.824" timestamp="1586339901722" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02. Half Sum Element.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04. Histogram.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
